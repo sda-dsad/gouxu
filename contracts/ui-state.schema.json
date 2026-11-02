@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Gouxu3D presentation state",
+  "type": "object",
+  "required": [
+    "presentation_version",
+    "view",
+    "render",
+    "camera",
+    "metric",
+    "min_pairs",
+    "top_k"
+  ],
+  "properties": {
+    "presentation_version": {
+      "const": "3.0"
+    },
+    "view": {
+      "enum": [
+        "search",
+        "flow",
+        "structure",
+        "products",
+        "priority",
+        "compare"
+      ]
+    },
+    "render": {
+      "enum": [
+        "3d",
+        "2d"
+      ]
+    },
+    "camera": {
+      "enum": [
+        "overview",
+        "front",
+        "top"
+      ]
+    },
+    "metric": {
+      "enum": [
+        "click",
+        "purchase_feedback"
+      ]
+    },
+    "min_pairs": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "top_k": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 80
+    },
+    "zoom": {
+      "type": "number",
+      "minimum": 0.75,
+      "maximum": 1.12
+    }
+  },
+  "additionalProperties": false
+}

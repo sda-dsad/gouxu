@@ -1,0 +1,25 @@
+{
+  "repo_id": "benchen4395/KuaiSearch",
+  "revision": "16f555af360f6a86209f60eb1f12462f9e25be2c",
+  "checked_on": "2026-10-12",
+  "metadata_basis": "Public author repository / Hugging Face file pages, not locally downloaded data",
+  "files": [
+    {
+      "path": "recall_lite/train.jsonl",
+      "size_label": "258 MB",
+      "sha256": "8949ed6b5cf685bb69067710ac70da12fd7999f66e66bafea4b9d8d78bfefe8a"
+    },
+    {
+      "path": "items_lite/train.jsonl",
+      "size_label": "2.79 GB",
+      "sha256": "5c04e031324a37636afb2f822a4d862378d7f54eada93875d686fa8f31bd2621"
+    }
+  ],
+  "license_metadata_label": "MIT",
+  "license_verification": "CONFLICT: HF metadata says MIT, paper v4 Appendix G says CC BY 4.0. Preserve both and resolve before distributing real data; acknowledgement is not legal clearance.",
+  "full_collection_window": "two months starting 2025-06-01",
+  "lite_window": "continuous one-month subset; exact month not specified in Appendix C",
+  "local_complete_files_available": false,
+  "local_schema_verification": "pending; deleted historical README is only an adapter hint",
+  "paper_license_statement": "CC BY 4.0 (arXiv v4 Appendix G)"
+}

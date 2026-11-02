@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Metric envelope v2",
+  "type": "object",
+  "required": [
+    "snapshot_id",
+    "scope_id",
+    "metric_version",
+    "data_mode",
+    "unit",
+    "denominator",
+    "metrics",
+    "warnings"
+  ],
+  "properties": {
+    "snapshot_id": {
+      "type": "string"
+    },
+    "scope_id": {
+      "type": "string"
+    },
+    "metric_version": {
+      "const": "request-item-pair-v1"
+    },
+    "data_mode": {
+      "enum": [
+        "synthetic",
+        "public_real_subset",
+        "authorized_private"
+      ]
+    },
+    "unit": {
+      "const": "request_item_pair"
+    },
+    "denominator": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "metrics": {
+      "type": "object"
+    },
+    "warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

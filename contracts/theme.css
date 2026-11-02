@@ -1,0 +1,22 @@
+:root {
+  --gouxu-canvas: #F7F7F2;
+  --gouxu-surface: #FFFFFF;
+  --gouxu-ink: #193E37;
+  --gouxu-muted: #61756C;
+  --gouxu-line: #DDE3D9;
+  --gouxu-selection: #173C36;
+  --category-c01: #7362DF;
+  --category-c01-text: #534397;
+  --category-c02: #4DB692;
+  --category-c02-text: #286A56;
+  --category-c03: #4286D8;
+  --category-c03-text: #2D5C94;
+  --category-c04: #EAB74B;
+  --category-c04-text: #806020;
+  --category-c05: #D678AD;
+  --category-c05-text: #844465;
+  --category-c06: #E78C64;
+  --category-c06-text: #8D4B2F;
+  --category-c07: #4CB9C3;
+  --category-c07-text: #2C7177;
+}

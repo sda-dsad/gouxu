@@ -1,0 +1,7066 @@
+{
+  "mode": "synthetic",
+  "snapshot_id": "gouxu-layout-v2-261012",
+  "source": {
+    "nature": "Synthetic layout and unit-test fixture. NOT KuaiSearch records.",
+    "seed": 261012,
+    "collection_note": "没有真实业务采集日期；不得把任何数值解释为快手统计。"
+  },
+  "items": [
+    {
+      "item_id": "DEMO-01-01",
+      "item_title": "棉帆布通勤包",
+      "category_level1_id": "C01",
+      "category_level1_name": "服饰鞋包",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-01-02",
+      "item_title": "轻量折叠购物袋",
+      "category_level1_id": "C01",
+      "category_level1_name": "服饰鞋包",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-01-03",
+      "item_title": "针织单肩小包",
+      "category_level1_id": "C01",
+      "category_level1_name": "服饰鞋包",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-01-04",
+      "item_title": "宽肩带斜挎包",
+      "category_level1_id": "C01",
+      "category_level1_name": "服饰鞋包",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-02-01",
+      "item_title": "轻薄防晒外套",
+      "category_level1_id": "C02",
+      "category_level1_name": "运动户外",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-02-02",
+      "item_title": "透气速干帽",
+      "category_level1_id": "C02",
+      "category_level1_name": "运动户外",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-02-03",
+      "item_title": "便携运动水瓶",
+      "category_level1_id": "C02",
+      "category_level1_name": "运动户外",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-02-04",
+      "item_title": "户外冰袖",
+      "category_level1_id": "C02",
+      "category_level1_name": "运动户外",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-03-01",
+      "item_title": "开放式无线耳机",
+      "category_level1_id": "C03",
+      "category_level1_name": "数码配件",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-03-02",
+      "item_title": "降噪入耳耳机",
+      "category_level1_id": "C03",
+      "category_level1_name": "数码配件",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-03-03",
+      "item_title": "便携充电线",
+      "category_level1_id": "C03",
+      "category_level1_name": "数码配件",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-03-04",
+      "item_title": "手机支架",
+      "category_level1_id": "C03",
+      "category_level1_name": "数码配件",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-04-01",
+      "item_title": "旋盖随行保温杯",
+      "category_level1_id": "C04",
+      "category_level1_name": "家居生活",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-04-02",
+      "item_title": "玻璃冷泡杯",
+      "category_level1_id": "C04",
+      "category_level1_name": "家居生活",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-04-03",
+      "item_title": "桌面收纳盒",
+      "category_level1_id": "C04",
+      "category_level1_name": "家居生活",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-04-04",
+      "item_title": "可折叠置物篮",
+      "category_level1_id": "C04",
+      "category_level1_name": "家居生活",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-05-01",
+      "item_title": "旅行分装瓶",
+      "category_level1_id": "C05",
+      "category_level1_name": "个护美妆",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-05-02",
+      "item_title": "保湿护手霜",
+      "category_level1_id": "C05",
+      "category_level1_name": "个护美妆",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-05-03",
+      "item_title": "温和洁面旅行装",
+      "category_level1_id": "C05",
+      "category_level1_name": "个护美妆",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-05-04",
+      "item_title": "棉质洁面巾",
+      "category_level1_id": "C05",
+      "category_level1_name": "个护美妆",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-06-01",
+      "item_title": "混合坚果小袋",
+      "category_level1_id": "C06",
+      "category_level1_name": "食品饮料",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-06-02",
+      "item_title": "全麦饼干",
+      "category_level1_id": "C06",
+      "category_level1_name": "食品饮料",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-06-03",
+      "item_title": "无糖气泡水",
+      "category_level1_id": "C06",
+      "category_level1_name": "食品饮料",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-06-04",
+      "item_title": "燕麦蛋白棒",
+      "category_level1_id": "C06",
+      "category_level1_name": "食品饮料",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-07-01",
+      "item_title": "硬壳方格手账",
+      "category_level1_id": "C07",
+      "category_level1_name": "文具办公",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-07-02",
+      "item_title": "柔色荧光笔",
+      "category_level1_id": "C07",
+      "category_level1_name": "文具办公",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-07-03",
+      "item_title": "帆布文具袋",
+      "category_level1_id": "C07",
+      "category_level1_name": "文具办公",
+      "source_line": null,
+      "source_file": null
+    },
+    {
+      "item_id": "DEMO-07-04",
+      "item_title": "便签收纳架",
+      "category_level1_id": "C07",
+      "category_level1_name": "文具办公",
+      "source_line": null,
+      "source_file": null
+    }
+  ],
+  "requests": [
+    {
+      "request_id": "DEMO-R0001",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-05-03",
+        "DEMO-06-01",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-03-01",
+        "DEMO-06-01",
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 0,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0002",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-03-01",
+        "DEMO-04-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 0,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0003",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-03",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 0,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0004",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 0,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0005",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-05-02",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 0,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0006",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 0,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0007",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-04-03",
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03",
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 0,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0008",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-02-02",
+        "DEMO-04-03",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 1,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0009",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-02-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 1,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0010",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-02-03",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-02-03",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 1,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0011",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-03-01",
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 1,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0012",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-07-02",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 1,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0013",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-02",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 1,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0014",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-04-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 1,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0015",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-03-03",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 2,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0016",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-02",
+        "DEMO-04-04",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04",
+        "DEMO-04-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-04",
+        "DEMO-04-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 2,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0017",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-05-03",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 2,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0018",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-03",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 2,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0019",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-04-03",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 2,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0020",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04",
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-04",
+        "DEMO-07-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 2,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0021",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-02",
+        "DEMO-04-03",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 2,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0022",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-05-01",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 3,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0023",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 3,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0024",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-07-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 3,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0025",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-04-02",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 3,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0026",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-03-01",
+        "DEMO-03-04",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 3,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0027",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-04",
+        "DEMO-04-03",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-03",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 3,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0028",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-01",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-04",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 3,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0029",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-03-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 4,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0030",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-03-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 4,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0031",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-04",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-04-02",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 4,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0032",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-05-02",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-04-03",
+        "DEMO-06-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 4,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0033",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-02",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 4,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0034",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 4,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0035",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-04",
+        "DEMO-04-04",
+        "DEMO-07-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 4,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0036",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-04-04",
+        "DEMO-05-04",
+        "DEMO-07-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 5,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0037",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-04",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 5,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0038",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 5,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0039",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 5,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0040",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 5,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0041",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-06-01",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02",
+        "DEMO-06-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 5,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0042",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-06-04",
+        "DEMO-07-01",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 5,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0043",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-02-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 6,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0044",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-02",
+        "DEMO-04-04",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 6,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0045",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-04",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-03-02",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 6,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0046",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-06-01",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-03",
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 6,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0047",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-05-01",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 6,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0048",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-05-02",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 6,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0049",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 6,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0050",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 7,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0051",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-02-01",
+        "DEMO-02-04",
+        "DEMO-03-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 7,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0052",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-07-01",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 7,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0053",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 7,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0054",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-02-04",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-04",
+        "DEMO-02-04",
+        "DEMO-05-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 7,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0055",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 7,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0056",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-03",
+        "DEMO-04-03",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 7,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0057",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-02-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02",
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 8,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0058",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-01",
+        "DEMO-04-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 8,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0059",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-05-04",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 8,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0060",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 8,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0061",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 8,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0062",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-04-02",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-06-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 8,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0063",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-04-02",
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 8,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0064",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 9,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0065",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-01",
+        "DEMO-04-04",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 9,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0066",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-04-02",
+        "DEMO-06-01",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-04-02",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 9,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0067",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 9,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0068",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-03-03",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 9,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0069",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 9,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0070",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-07-01",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 9,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0071",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-02-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 10,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0072",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 10,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0073",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-04-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 10,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0074",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 10,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0075",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-04",
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 10,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0076",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-05-03",
+        "DEMO-06-01",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 10,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0077",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 10,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0078",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 11,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0079",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-01",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 11,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0080",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 11,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0081",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-03",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03",
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 11,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0082",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-03-01",
+        "DEMO-04-02",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-05-01",
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 11,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0083",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-04-03",
+        "DEMO-05-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 11,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0084",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-06-01",
+        "DEMO-06-03",
+        "DEMO-07-01",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-04",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 11,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0085",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-04-04",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 12,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0086",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-06-01",
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 12,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0087",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 12,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0088",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-02",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 12,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0089",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-05-04",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 12,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0090",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-05-04",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 12,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0091",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-05-02",
+        "DEMO-07-01",
+        "DEMO-07-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 12,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0092",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 13,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0093",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-04",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 13,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0094",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-05-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-03",
+        "DEMO-03-04",
+        "DEMO-05-02",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 13,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0095",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-04",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 13,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0096",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 13,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0097",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-05-03",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04",
+        "DEMO-07-01",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 13,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0098",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-03-04",
+        "DEMO-04-04",
+        "DEMO-07-01",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-04",
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 13,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0099",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-04-02",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 14,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0100",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 14,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0101",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 14,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0102",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 14,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0103",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-04",
+        "DEMO-04-01",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-05-01",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 14,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0104",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-05-01",
+        "DEMO-06-01",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 14,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0105",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-06-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 14,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0106",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 15,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0107",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-02",
+        "DEMO-06-03",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 15,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0108",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-03",
+        "DEMO-05-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 15,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0109",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-04-02",
+        "DEMO-04-04",
+        "DEMO-05-02",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-02",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 15,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0110",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-03-03",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 15,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0111",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-04",
+        "DEMO-04-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04",
+        "DEMO-06-01",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 15,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0112",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-02",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 15,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0113",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-02-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-03",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 16,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0114",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 16,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0115",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 16,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0116",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 16,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0117",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 16,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0118",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 16,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0119",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-05-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 16,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0120",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-06-01",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 17,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0121",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-02",
+        "DEMO-05-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 17,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0122",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-03-03",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 17,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0123",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-04",
+        "DEMO-04-01",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 17,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0124",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 17,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0125",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 17,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0126",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-04",
+        "DEMO-05-01",
+        "DEMO-07-01",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 17,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0127",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-05-03",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 18,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0128",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 18,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0129",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-04",
+        "DEMO-05-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 18,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0130",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 18,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0131",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 18,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0132",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-02",
+        "DEMO-03-04",
+        "DEMO-05-04",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 18,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0133",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-05-01",
+        "DEMO-07-01",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 18,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0134",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-02-04",
+        "DEMO-04-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-04-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 19,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0135",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-02",
+        "DEMO-04-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 19,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0136",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-03",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 19,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0137",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 19,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0138",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 19,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0139",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 19,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0140",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-03-01",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 19,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0141",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-04",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 20,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0142",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-01",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-03",
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-03",
+        "DEMO-02-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 20,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0143",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-02-03",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 20,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0144",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-03-03",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 20,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0145",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-04-01",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 20,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0146",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 20,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0147",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-03-01",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-06-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 20,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0148",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-06-01",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 21,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0149",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 21,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0150",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 21,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0151",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 21,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0152",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-04-02",
+        "DEMO-05-02",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 21,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0153",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-05-02",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-02",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 21,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0154",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 21,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0155",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-03-02",
+        "DEMO-04-02",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 22,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0156",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-02-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 22,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0157",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-01",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-01",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 22,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0158",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 22,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0159",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-05-01",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 22,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0160",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-03-04",
+        "DEMO-05-01",
+        "DEMO-06-01",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-04",
+        "DEMO-06-01",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 22,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0161",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 22,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0162",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-02-02",
+        "DEMO-02-04",
+        "DEMO-03-02",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 23,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0163",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-04",
+        "DEMO-03-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 23,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0164",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-03-01",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 23,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0165",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-02-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 23,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0166",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-05-01",
+        "DEMO-05-04",
+        "DEMO-06-01",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 23,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0167",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-03",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 23,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0168",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 23,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0169",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 24,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0170",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-02",
+        "DEMO-02-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 24,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0171",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-03-01",
+        "DEMO-03-04",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-04",
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 24,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0172",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-04-02",
+        "DEMO-04-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 24,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0173",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-03-04",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 24,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0174",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 24,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0175",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-06-03",
+        "DEMO-07-01",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-04",
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 24,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0176",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-02-04",
+        "DEMO-04-02",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04",
+        "DEMO-04-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 25,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0177",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-03-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 25,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0178",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-03",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 25,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0179",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 25,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0180",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-04-03",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 25,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0181",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-06-01",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 25,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0182",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-02",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 25,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0183",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-05-03",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 26,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0184",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 26,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0185",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-03",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-06-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 26,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0186",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 26,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0187",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-05-01",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 26,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0188",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 26,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0189",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-02-03",
+        "DEMO-04-03",
+        "DEMO-06-01",
+        "DEMO-07-01",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-02-03",
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 26,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0190",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 27,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0191",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-05-03",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-06-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-06-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 27,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0192",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-03-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 27,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0193",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 27,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0194",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-05-01",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 27,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0195",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 27,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0196",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-03",
+        "DEMO-05-01",
+        "DEMO-07-02",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 27,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0197",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03",
+        "DEMO-03-04",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 28,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0198",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 28,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0199",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-05-02",
+        "DEMO-06-01",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-01",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 28,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0200",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-02",
+        "DEMO-04-04",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 28,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0201",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-04-03",
+        "DEMO-05-01",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 28,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0202",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-03",
+        "DEMO-05-02",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 28,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0203",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-03-03",
+        "DEMO-04-04",
+        "DEMO-06-03",
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03",
+        "DEMO-06-03",
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 28,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0204",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 29,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0205",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-02-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 29,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0206",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-03-01",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 29,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0207",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-02",
+        "DEMO-04-04",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 29,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0208",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-03-02",
+        "DEMO-04-04",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 29,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0209",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-06-01",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 29,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0210",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-04",
+        "DEMO-07-01",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 29,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0211",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-04",
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-04-03",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-01",
+        "DEMO-06-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 30,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0212",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-02-01",
+        "DEMO-02-04",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-04",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 30,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0213",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 30,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0214",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-05-03",
+        "DEMO-06-02",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 30,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0215",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-03",
+        "DEMO-04-01",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 30,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0216",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-05-03",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 30,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0217",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-05-01",
+        "DEMO-05-03",
+        "DEMO-06-03",
+        "DEMO-07-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-03",
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 30,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0218",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-05-03",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-05-03",
+        "DEMO-06-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 31,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0219",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-04",
+        "DEMO-05-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 31,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0220",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 31,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0221",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-02",
+        "DEMO-04-02",
+        "DEMO-04-04",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-02",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 31,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0222",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-02",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-02",
+        "DEMO-02-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 31,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0223",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-05-02",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 31,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0224",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-04-01",
+        "DEMO-07-01",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 31,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0225",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 32,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0226",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 32,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0227",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-01",
+        "DEMO-03-04",
+        "DEMO-04-04",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-01",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 32,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0228",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-04",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 32,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0229",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-05-01",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 32,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0230",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-02",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 32,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0231",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-06-03",
+        "DEMO-06-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 32,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0232",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-02-02",
+        "DEMO-04-03",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 33,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0233",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-04-03",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 33,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0234",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 33,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0235",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-03",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 33,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0236",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-04-02",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 33,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0237",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-02-03",
+        "DEMO-03-02",
+        "DEMO-05-02",
+        "DEMO-06-01",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 33,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0238",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-02",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03",
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 33,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0239",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-04",
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 34,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0240",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 34,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0241",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 34,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0242",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-02",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 34,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0243",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-06-01",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-05-01",
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-03",
+        "DEMO-05-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 34,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0244",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 34,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0245",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 34,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0246",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-02-03",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 35,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0247",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-03-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 35,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0248",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-02",
+        "DEMO-03-04",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 35,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0249",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-02-02",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 35,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0250",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 35,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0251",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 35,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0252",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-03",
+        "DEMO-07-01",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04",
+        "DEMO-07-01",
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 35,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0253",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-05-03",
+        "DEMO-06-02",
+        "DEMO-07-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-04",
+        "DEMO-06-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 36,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0254",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-05-02",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 36,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0255",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 36,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0256",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 36,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0257",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-04-02",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 36,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0258",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 36,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0259",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-03",
+        "DEMO-06-01",
+        "DEMO-07-02",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 36,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0260",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 37,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0261",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-06-01",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 37,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0262",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-05-01",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 37,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0263",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-02",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 37,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0264",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-04",
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-01",
+        "DEMO-07-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 37,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0265",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-04",
+        "DEMO-03-04",
+        "DEMO-06-01",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04",
+        "DEMO-06-01",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-04",
+        "DEMO-06-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 37,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0266",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-03",
+        "DEMO-04-04",
+        "DEMO-05-02",
+        "DEMO-07-01",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-01",
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 37,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0267",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-04-02",
+        "DEMO-06-01",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 38,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0268",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 38,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0269",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-04",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 38,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0270",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-04",
+        "DEMO-06-02",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 38,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0271",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-02",
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 38,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0272",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 38,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0273",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-07-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 38,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0274",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 39,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0275",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-03",
+        "DEMO-05-03",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-04",
+        "DEMO-02-03",
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 39,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0276",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 39,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0277",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 39,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0278",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-02",
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 39,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0279",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-03",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-06-02"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 39,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0280",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-05-03",
+        "DEMO-07-01",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-07-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 39,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0281",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 40,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0282",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 40,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0283",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-06-02",
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 40,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0284",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-01",
+        "DEMO-05-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-04",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 40,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0285",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 40,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0286",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-03",
+        "DEMO-05-04",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 40,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0287",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-03-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 40,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0288",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-02-01",
+        "DEMO-02-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 41,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0289",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-02-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 41,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0290",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-02",
+        "DEMO-03-04",
+        "DEMO-06-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 41,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0291",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-04-03",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 41,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0292",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-06-01",
+        "DEMO-06-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-05-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 41,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0293",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03",
+        "DEMO-06-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 41,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0294",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-02",
+        "DEMO-07-01",
+        "DEMO-07-02",
+        "DEMO-07-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 41,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0295",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-02-03",
+        "DEMO-03-01",
+        "DEMO-05-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-04",
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 42,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0296",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 42,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0297",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-04",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-02",
+        "DEMO-03-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 42,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0298",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-04",
+        "DEMO-03-03",
+        "DEMO-04-02",
+        "DEMO-04-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-04-02",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 42,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0299",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-01",
+        "DEMO-05-01",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 42,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0300",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-04",
+        "DEMO-06-02",
+        "DEMO-06-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 42,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0301",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 42,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0302",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-02-01",
+        "DEMO-05-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-03",
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-03",
+        "DEMO-01-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 43,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0303",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-04",
+        "DEMO-04-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 43,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0304",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 43,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0305",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 43,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0306",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 43,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0307",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 43,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0308",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-04-03",
+        "DEMO-05-04",
+        "DEMO-06-02",
+        "DEMO-07-01",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 43,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0309",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-03",
+        "DEMO-01-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 44,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0310",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-03",
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 44,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0311",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-03-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-02"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 44,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0312",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-03",
+        "DEMO-06-01",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 44,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0313",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-03-04",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-04",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-07-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 44,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0314",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-03-04",
+        "DEMO-05-01",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-04",
+        "DEMO-07-01",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 44,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0315",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-04",
+        "DEMO-03-01",
+        "DEMO-03-02",
+        "DEMO-04-04",
+        "DEMO-07-02",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04",
+        "DEMO-03-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 44,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0316",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-04-04",
+        "DEMO-06-01",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-04",
+        "DEMO-04-04",
+        "DEMO-06-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-01-01",
+        "DEMO-06-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 45,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0317",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-04-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 45,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0318",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-01",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 45,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0319",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-04-01",
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-01",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-05-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 45,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0320",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-02-03",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 45,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0321",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-06-01",
+        "DEMO-06-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-01",
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-04-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 45,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0322",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-03-01",
+        "DEMO-04-03",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 45,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0323",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-01-04",
+        "DEMO-03-02",
+        "DEMO-05-03",
+        "DEMO-06-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 46,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0324",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-03-01",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-01-02",
+        "DEMO-02-02",
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 46,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0325",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-04",
+        "DEMO-04-04",
+        "DEMO-07-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 46,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0326",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-04-01",
+        "DEMO-04-03",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 46,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0327",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-01-03",
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-07-01"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 46,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0328",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-04",
+        "DEMO-06-01",
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-06-02",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-06-03"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 46,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0329",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-03-03",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-07-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 46,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0330",
+      "query": "通勤帆布包",
+      "impressed_item_ids": [
+        "DEMO-01-02",
+        "DEMO-01-03",
+        "DEMO-02-02",
+        "DEMO-03-02",
+        "DEMO-04-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-02"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 47,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0331",
+      "query": "轻薄防晒衣",
+      "impressed_item_ids": [
+        "DEMO-02-01",
+        "DEMO-02-02",
+        "DEMO-02-03",
+        "DEMO-02-04",
+        "DEMO-05-02"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 47,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0332",
+      "query": "无线蓝牙耳机",
+      "impressed_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-03",
+        "DEMO-03-04",
+        "DEMO-04-02",
+        "DEMO-05-03",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-03-01",
+        "DEMO-03-03",
+        "DEMO-03-04"
+      ],
+      "purchased_item_ids": [
+        "DEMO-03-04"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 47,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0333",
+      "query": "随行保温杯",
+      "impressed_item_ids": [
+        "DEMO-04-02",
+        "DEMO-04-03",
+        "DEMO-04-04",
+        "DEMO-05-04",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-04-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 47,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0334",
+      "query": "旅行洗护套装",
+      "impressed_item_ids": [
+        "DEMO-05-01",
+        "DEMO-05-02",
+        "DEMO-05-03",
+        "DEMO-05-04",
+        "DEMO-07-01"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-03"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 47,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0335",
+      "query": "办公室小零食",
+      "impressed_item_ids": [
+        "DEMO-01-01",
+        "DEMO-01-02",
+        "DEMO-02-01",
+        "DEMO-05-03",
+        "DEMO-06-01",
+        "DEMO-06-03",
+        "DEMO-06-04"
+      ],
+      "clicked_item_ids": [
+        "DEMO-02-01",
+        "DEMO-06-03"
+      ],
+      "purchased_item_ids": [
+        "DEMO-02-01"
+      ],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 47,
+      "split": "synthetic_fixture"
+    },
+    {
+      "request_id": "DEMO-R0336",
+      "query": "桌面收纳",
+      "impressed_item_ids": [
+        "DEMO-05-04",
+        "DEMO-06-03",
+        "DEMO-07-01",
+        "DEMO-07-02",
+        "DEMO-07-03"
+      ],
+      "clicked_item_ids": [
+        "DEMO-05-04"
+      ],
+      "purchased_item_ids": [],
+      "source_line": null,
+      "source_file": null,
+      "time_index": 47,
+      "split": "synthetic_fixture"
+    }
+  ],
+  "categories": [
+    {
+      "id": "C01",
+      "name": "服饰鞋包",
+      "color": "#7362DF",
+      "text_color": "#534397"
+    },
+    {
+      "id": "C02",
+      "name": "运动户外",
+      "color": "#4DB692",
+      "text_color": "#286A56"
+    },
+    {
+      "id": "C03",
+      "name": "数码配件",
+      "color": "#4286D8",
+      "text_color": "#2D5C94"
+    },
+    {
+      "id": "C04",
+      "name": "家居生活",
+      "color": "#EAB74B",
+      "text_color": "#806020"
+    },
+    {
+      "id": "C05",
+      "name": "个护美妆",
+      "color": "#D678AD",
+      "text_color": "#844465"
+    },
+    {
+      "id": "C06",
+      "name": "食品饮料",
+      "color": "#E78C64",
+      "text_color": "#8D4B2F"
+    },
+    {
+      "id": "C07",
+      "name": "文具办公",
+      "color": "#4CB9C3",
+      "text_color": "#2C7177"
+    }
+  ]
+}

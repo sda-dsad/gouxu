@@ -1,0 +1,36 @@
+<script setup lang="ts">
+import {computed,onMounted,ref} from 'vue'
+import {useWorkbench} from '../stores/scope'
+import {number,percent,ratio,type Product} from '../domain/types'
+import {exposureFlow,flowLabel} from '../domain/exposureFlow'
+const store=useWorkbench(),focused=ref(false),hover=ref<string|null>(null)
+const ready=computed(()=>!!store.model&&(!store.category||store.categoryProductsKey===store.model.scope_id+'|'+store.category.id))
+const graph=computed(()=>exposureFlow(store.model?.categories??[],store.model?.E??0,store.category?.id??null,ready.value?store.categoryProducts:[],ready.value,focused.value))
+const sourceLabel=computed(()=>focused.value?graph.value.selected?.name??'当前类目':store.queryKey==='all'?'全部查询':store.query)
+const represented=computed(()=>graph.value.parts.filter(p=>!p.remainder).reduce((n,p)=>n+p.E,0))
+const active=computed(()=>hover.value??graph.value.selected?.id)
+const colors=computed(()=>new Map((store.model?.categories??[]).map(c=>[c.id,c.color])))
+onMounted(()=>{if(store.category?.E===0){const best=[...(store.model?.categories??[])].sort((a,b)=>b.E-a.E)[0];if(best?.E)store.setCategory(best.id)}})
+async function openProduct(product:Product){await store.showProduct(product.id)}
+</script>
+<template>
+<section class="exposure-flow" aria-label="曝光流向交互图" :data-scope="store.model?.scope_id" :data-total="store.model?.E" :data-focus="graph.selected?.id">
+ <div class="flow-heading"><div><span class="eyebrow">EXPOSURE MAP</span><h2>曝光如何分布到类目和商品？</h2><p>类目按当前范围曝光从多到少排列。点类目展开商品，点商品查看详情。</p></div><span class="flow-live-scope"><i/>{{store.queryKey==='all'?'全部查询':store.query}}</span></div>
+ <div class="flow-toolbar"><div class="segmented" role="group" aria-label="流向图显示范围"><button :class="{active:!focused}" :aria-pressed="!focused" @click="focused=false">全部去向</button><button :class="{active:focused}" :aria-pressed="focused" :disabled="!graph.selected" @click="focused=true">聚焦所选类目</button></div><span>带宽 = 曝光配对数 · 所有连接使用同一量尺</span></div>
+ <div class="flow-scroll" tabindex="0" aria-label="流向图画布，窄屏可横向滚动">
+  <svg :viewBox="'0 0 1000 '+graph.height" role="group" aria-roledescription="交互式曝光流向图" aria-labelledby="exposure-flow-title exposure-flow-desc" class="flow-svg">
+   <title id="exposure-flow-title">当前分析范围的曝光流向</title><desc id="exposure-flow-desc">曝光逐级分解为类目，再展开所选类目的最多五件代表商品和其余商品曝光。各层数量守恒，颜色识别类目。可使用下方列表选择类目。</desc>
+   <text x="28" y="34" class="flow-column-title">01　{{focused?'所选类目曝光':'当前分析范围'}}</text><text x="400" y="34" class="flow-column-title">02　曝光类目</text><text x="790" y="34" class="flow-column-title">03　所选类目内的商品</text>
+   <path v-for="band in graph.incoming" :key="band.id" class="flow-ribbon" :class="{dim:active&&active!==band.categoryId,lit:active===band.categoryId}" :data-category="band.categoryId" :data-value="band.E" :d="band.d" :fill="colors.get(band.categoryId)" @mouseenter="hover=band.categoryId" @mouseleave="hover=null" @click="store.setCategory(band.categoryId)"><title>{{store.model?.categories.find(c=>c.id===band.categoryId)?.name}}：{{number(band.E)}} 条曝光，占当前图中 {{percent(ratio(band.E,graph.shownTotal))}}</title></path>
+   <path v-for="band in graph.outgoing" :key="band.id" class="flow-ribbon flow-outgoing" :class="{remainder:band.partId==='__remainder__'}" :data-product="band.partId" :data-value="band.E" :d="band.d" :fill="graph.selected?.color"><title>{{graph.parts.find(p=>p.id===band.partId)?.label}}：{{number(band.E)}} 条曝光</title></path>
+   <g class="flow-source"><rect x="22" :y="Math.min(graph.rootCenter-75,graph.rootTop-20)" width="184" :height="Math.max(150,graph.shownTotal*graph.unit+40)" rx="14"/><text x="42" :y="graph.rootCenter-28" class="flow-node-label">{{flowLabel(sourceLabel,10)}}</text><text x="42" :y="graph.rootCenter+9" class="flow-root-value">{{number(graph.shownTotal)}}</text><text x="42" :y="graph.rootCenter+34" class="flow-small">条曝光配对</text><title>{{sourceLabel}}：{{number(graph.shownTotal)}} 条曝光</title></g>
+   <g v-for="row in graph.rows" :key="row.id" class="flow-category-node" :class="{selected:graph.selected?.id===row.id}" :data-category-node="row.id" :data-value="row.E" :transform="'translate(400,'+row.y+')'" role="button" tabindex="0" :aria-label="'展开类目 '+graph.shown.find(c=>c.id===row.id)?.name+'，'+row.E+'条曝光'" :aria-pressed="graph.selected?.id===row.id" @click="store.setCategory(row.id)" @keydown.enter="store.setCategory(row.id)" @keydown.space.prevent="store.setCategory(row.id)" @mouseenter="hover=row.id" @mouseleave="hover=null" @focus="hover=row.id" @blur="hover=null"><rect width="174" height="64" y="-32" rx="10"/><rect class="flow-category-accent" width="4" height="40" y="-20" x="10" rx="2" :fill="colors.get(row.id)"/><text x="24" y="-7" class="flow-node-label">{{flowLabel(graph.shown.find(c=>c.id===row.id)?.name??row.id,11)}}</text><text x="24" y="15" class="flow-node-number">{{number(row.E)}}<tspan class="flow-small"> · {{percent(ratio(row.E,graph.shownTotal))}}</tspan></text><title>{{graph.shown.find(c=>c.id===row.id)?.name}}：{{number(row.E)}} 条曝光</title></g>
+   <g v-for="row in graph.children" :key="row.id" class="flow-product-node" :class="{tail:graph.parts.find(p=>p.id===row.id)?.remainder}" :data-product-node="row.id" :data-value="row.E" :transform="'translate(790,'+row.y+')'" :role="row.id==='__remainder__'?'group':'button'" :tabindex="row.id==='__remainder__'?undefined:0" :aria-label="graph.parts.find(p=>p.id===row.id)?.label+'，'+row.E+'条曝光'" @click="graph.parts.find(p=>p.id===row.id)?.product&&openProduct(graph.parts.find(p=>p.id===row.id)!.product!)" @keydown.enter="graph.parts.find(p=>p.id===row.id)?.product&&openProduct(graph.parts.find(p=>p.id===row.id)!.product!)" @keydown.space.prevent="graph.parts.find(p=>p.id===row.id)?.product&&openProduct(graph.parts.find(p=>p.id===row.id)!.product!)"><rect width="194" height="64" y="-32" rx="10"/><text x="14" y="-7" class="flow-node-label">{{flowLabel(graph.parts.find(p=>p.id===row.id)?.label??'',13)}}</text><text x="14" y="15" class="flow-node-number">{{number(row.E)}}<tspan class="flow-small"> · {{percent(ratio(row.E,graph.selected?.E??0))}}</tspan></text><title>{{graph.parts.find(p=>p.id===row.id)?.label}}：{{number(row.E)}} 条曝光，占所选类目 {{percent(ratio(row.E,graph.selected?.E??0))}}</title></g>
+   <text v-if="!ready" x="790" :y="graph.rootCenter" class="flow-small">正在读取所选类目的商品…</text><text v-else-if="!graph.parts.length" x="790" :y="graph.rootCenter" class="flow-small">所选类目没有曝光配对</text>
+  </svg>
+ </div>
+ <div class="flow-readout"><span><i :style="{background:graph.selected?.color}"/>{{graph.selected?.name??'没有类目'}}<strong>{{number(graph.selected?.E)}} 条</strong></span><span>已展开商品覆盖该类目 <strong>{{percent(ratio(represented,graph.selected?.E??0))}}</strong></span><button class="text-button" @click="store.setView('products')">查看商品表现 ↗</button></div>
+ <p class="flow-note">{{focused?'当前只放大所选类目的曝光分布，页面总量仍为完整查询范围。':'左侧展示完整范围，右侧展开选中类目；其余商品补齐全部曝光。'}} 类目较多时可在图内上下滚动，窄屏可左右滑动。这里呈现曝光分布，不表示用户行为先后。</p>
+ <details class="flow-accessible"><summary>类目读数与键盘选择</summary><div class="flow-category-list"><button v-for="c in store.model?.categories" :key="c.id" :aria-pressed="store.category?.id===c.id" @click="store.setCategory(c.id)"><i :style="{background:c.color}"/><span>{{c.name}}</span><strong>{{number(c.E)}} 条</strong></button></div></details>
+</section>
+</template>

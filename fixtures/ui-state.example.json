@@ -1,0 +1,10 @@
+{
+  "presentation_version": "3.0",
+  "view": "search",
+  "render": "3d",
+  "camera": "overview",
+  "metric": "click",
+  "min_pairs": 0,
+  "top_k": 16,
+  "zoom": 1
+}

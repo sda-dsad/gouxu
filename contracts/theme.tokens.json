@@ -1,0 +1,72 @@
+{
+  "version": "3.0",
+  "base": {
+    "canvas": "#F7F7F2",
+    "surface": "#FFFFFF",
+    "ink": "#193E37",
+    "muted": "#61756C",
+    "line": "#DDE3D9",
+    "selection": "#173C36"
+  },
+  "categorical": [
+    {
+      "token": "C01",
+      "fill": "#7362DF",
+      "text": "#534397"
+    },
+    {
+      "token": "C02",
+      "fill": "#4DB692",
+      "text": "#286A56"
+    },
+    {
+      "token": "C03",
+      "fill": "#4286D8",
+      "text": "#2D5C94"
+    },
+    {
+      "token": "C04",
+      "fill": "#EAB74B",
+      "text": "#806020"
+    },
+    {
+      "token": "C05",
+      "fill": "#D678AD",
+      "text": "#844465"
+    },
+    {
+      "token": "C06",
+      "fill": "#E78C64",
+      "text": "#8D4B2F"
+    },
+    {
+      "token": "C07",
+      "fill": "#4CB9C3",
+      "text": "#2C7177"
+    }
+  ],
+  "categorical_rule": "Allocate stable source category IDs to the palette registry; palette repeats must also show text labels. Demo category names are not official taxonomy.",
+  "state": {
+    "unknown": "#A3ADA6",
+    "error": "#A43A3A",
+    "preview_background": "#FFF0C8",
+    "preview_text": "#735615"
+  },
+  "motion_ms": {
+    "feedback": 140,
+    "panel": 220,
+    "chart": 480
+  },
+  "reduced_motion": true,
+  "three_d": {
+    "default_projection": "orthographic",
+    "height_policy": "linear_from_common_zero_excluding_pedestal",
+    "material": "opaque_satin_acrylic",
+    "numeric_glow_encoding": false,
+    "background": "#F7F7F2",
+    "floor": "#FDFEFA",
+    "depth_encodes_data": false,
+    "label_layer": "DOM",
+    "camera_transition_ms": 420
+  }
+}

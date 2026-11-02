@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Gouxu search normalized bundle v2",
+  "description": "Not raw upstream schema. Normalization requires a separately reviewed source adapter.",
+  "type": "object",
+  "required": [
+    "mode",
+    "snapshot_id",
+    "source",
+    "items",
+    "requests"
+  ],
+  "properties": {
+    "mode": {
+      "enum": [
+        "synthetic",
+        "public_real_subset",
+        "authorized_private"
+      ]
+    },
+    "snapshot_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source": {
+      "type": "object"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "item_id",
+          "item_title",
+          "category_level1_id",
+          "category_level1_name"
+        ],
+        "properties": {
+          "item_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "item_title": {
+            "type": "string"
+          },
+          "category_level1_id": {
+            "type": "string"
+          },
+          "category_level1_name": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "requests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "request_id",
+          "query",
+          "impressed_item_ids",
+          "clicked_item_ids",
+          "purchased_item_ids"
+        ],
+        "properties": {
+          "request_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "query": {
+            "type": "string"
+          },
+          "impressed_item_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "uniqueItems": true
+          },
+          "clicked_item_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "uniqueItems": true
+          },
+          "purchased_item_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "uniqueItems": true
+          },
+          "time_index": {
+            "type": [
+              "integer",
+              "string",
+              "null"
+            ]
+          },
+          "split": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_line": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "minimum": 1
+          },
+          "source_file": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

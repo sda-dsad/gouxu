@@ -1,0 +1,139 @@
+{
+  "status": "design_not_implemented",
+  "version": "v1",
+  "base": "local_same_origin",
+  "errors": [
+    "INVALID_SCHEMA",
+    "SOURCE_UNVERIFIED",
+    "ZERO_DENOMINATOR_NOT_ERROR",
+    "INCOMPATIBLE_SCOPE",
+    "CANCELLED",
+    "STALE_VERSION",
+    "EXPORT_TOO_LARGE"
+  ],
+  "cohort_scope": {
+    "snapshot_id": "required",
+    "exact_queries": "list of 1..20 raw exact values (empty list = all only for general scope)",
+    "split_policy": "explicit raw-value set or explicitly all",
+    "metric_version": "request-item-pair-v1"
+  },
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/api/v1/snapshots",
+      "input": "none",
+      "output": "snapshots + mode/quality/coverage"
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/import-jobs",
+      "input": "registered_file_ids + adapter_id + consent_metadata",
+      "output": "job_id + state"
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/import-jobs/{id}",
+      "input": "none",
+      "output": "state + actual rows + errors"
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/import-jobs/{id}/cancel",
+      "input": "none",
+      "output": "state"
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/snapshots/{id}/quality",
+      "input": "none",
+      "output": "field/keys/joins/orphans/sampling audit"
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/scopes",
+      "input": "snapshot_id + exact_queries[] + split_policy",
+      "output": "scope_id + frozen filter"
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/scopes/{id}/metrics",
+      "input": "none",
+      "output": "MetricEnvelope"
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/scopes/{id}/queries",
+      "input": "cursor + limit<=200",
+      "output": "exact queries + sample denominators"
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/scopes/{id}/query-category",
+      "input": "top_queries + top_categories + include_other",
+      "output": "edges + total + display coverage + unknown bucket"
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/scopes/{id}/items",
+      "input": "cursor + limit<=200 + sort",
+      "output": "item-level metrics + numerators/denominators"
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/scopes/{id}/evidence",
+      "input": "request_id/item_id + cursor",
+      "output": "redacted source rows + source hash/line"
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/cohorts",
+      "input": "name + scope_id",
+      "output": "cohort_id + immutable parameters"
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/compare",
+      "input": "cohort_a + cohort_b",
+      "output": "rates + delta_pp + overlap + compatibility"
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/review-items",
+      "input": "snapshot + scope + target + note",
+      "output": "saved id/version"
+    },
+    {
+      "method": "GET",
+      "path": "/api/v1/review-items",
+      "input": "cursor",
+      "output": "saved rows"
+    },
+    {
+      "method": "PATCH",
+      "path": "/api/v1/review-items/{id}",
+      "input": "expected_version + note/status",
+      "output": "new version or conflict"
+    },
+    {
+      "method": "DELETE",
+      "path": "/api/v1/review-items/{id}",
+      "input": "expected_version",
+      "output": "deleted or conflict"
+    },
+    {
+      "method": "POST",
+      "path": "/api/v1/exports",
+      "input": "frozen scope/cohort ids + format",
+      "output": "export job id + mode/provenance"
+    }
+  ],
+  "constraints": [
+    "No arbitrary SQL",
+    "No public raw user timelines",
+    "No price/payment endpoints",
+    "Unknown category retained",
+    "Pagination capped",
+    "Source provenance required",
+    "Foreign snapshots rejected in comparison"
+  ]
+}

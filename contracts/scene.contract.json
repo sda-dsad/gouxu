@@ -1,0 +1,164 @@
+{
+  "version": "3.0",
+  "status": "design_contract_not_production_implementation",
+  "common": {
+    "projection": "orthographic",
+    "focus_changes_scope": false,
+    "height_zero": 0,
+    "decorative_pedestal_excluded": true,
+    "depth_encodes_data": false,
+    "glow_encodes_data": false,
+    "labels": "DOM_screen_space",
+    "nullable_rates": true,
+    "color_registry": "source_category_id_stable",
+    "required_envelope": [
+      "snapshot_id",
+      "scope_id",
+      "metric_version",
+      "data_mode",
+      "scale_spec",
+      "coverage"
+    ],
+    "camera_presets": [
+      "overview",
+      "front",
+      "top"
+    ],
+    "zoom_limits": [
+      0.75,
+      1.12
+    ]
+  },
+  "search": {
+    "unit": "deduplicated request-item exposure pairs",
+    "height": "E_category / displayed_scale_max * world_height",
+    "height_scale": {
+      "default": "current_scope_auto",
+      "alternative": "snapshot_global",
+      "origin": 0,
+      "mapping": "linear",
+      "shared_by": [
+        "Three.js",
+        "2D"
+      ],
+      "changes_denominator": false
+    },
+    "width": "constant",
+    "depth": "constant",
+    "order": "current scope E descending, stable ID tie-break",
+    "zero": "baseline marker, no positive data pillar",
+    "topk": "8 high-exposure original categories plus focused category; full list retained; no artificial OTHER",
+    "two_d": "same ViewModel horizontal bars"
+  },
+  "flow": {
+    "implementation": "native interactive SVG exposure allocation map",
+    "columns": [
+      "current scope exposure",
+      "display category",
+      "selected category products"
+    ],
+    "bandwidth": "one linear exposure-pair scale for both sets of ribbons",
+    "right_column": "up to five same-scope products plus explicit remainder exposure",
+    "category_order": "current scope E descending, stable ID tie-break",
+    "zero": "label retained; no positive ribbon",
+    "category_focus_changes_scope": false,
+    "focus_mode": "selected category exposure subset; original scope denominator retained",
+    "temporal_sequence_claim": false,
+    "raw_text": "text nodes only; no HTML interpretation"
+  },
+  "products": {
+    "x": "E_item",
+    "y": [
+      "C_item/E_item",
+      "P_item/E_item"
+    ],
+    "z": "fixed data plane",
+    "size": "constant; selection outline is not a data mark",
+    "max_default_render_items": 16,
+    "max_production_render_items": 80,
+    "threshold_changes_denominator": false,
+    "rate_domain": [
+      0,
+      1
+    ],
+    "overlap": "stack count + list; no silent jitter",
+    "selected_item": "pinned into render budget if threshold eligible"
+  },
+  "compare": {
+    "height": "E_category/E_group",
+    "domain": [
+      0,
+      1
+    ],
+    "style": "A tint plus A label / B base plus B label",
+    "category_identity": "same in both groups",
+    "difference": "100*(rate_B-rate_A) percentage points",
+    "same_group_difference": 0,
+    "zero_denominator": "null and no bar",
+    "independent_camera_autoscale": false
+  },
+  "preview_renderer": {
+    "implementation": "in-package native WebGL1 optional / Canvas face projection fallback",
+    "tested_path": "Canvas face projection via Playwright set_content",
+    "webgl_path_executed": false,
+    "production": "Three.js WebGL2 plus 2D fallback after M0 compatibility lock"
+  },
+  "priority": {
+    "implementation": "Vue native SVG; same immutable scope and shared diagnosis",
+    "x": "E_item; auto log1p when positive range ratio >=20, or explicit linear",
+    "y": [
+      "100*(C_item/E_item-C_peers/E_peers)",
+      "100*(P_item/E_item-P_peers/E_peers)"
+    ],
+    "reference": "full original category minus current item, same snapshot/scope/split",
+    "zero": "each item own category-peer reference",
+    "colors": "stable original category",
+    "shapes": {
+      "diamond": "qualified low-feedback review candidate",
+      "filled_circle": "qualified observed difference",
+      "open_circle": "read only, inadequate sample or peer feedback",
+      "numbered_label": "neighbour items, expandable; original coordinates unchanged"
+    },
+    "unplaced": "zero exposure, unknown category, invalid or missing peer reference; retained in DOM list",
+    "candidate_budget": [
+      16,
+      32,
+      64
+    ],
+    "review_order": "candidate exposure descending; treemap shows all currently filtered loaded candidates",
+    "filters_change_scope": false,
+    "temporal_sequence_claim": false,
+    "causal_or_revenue_claim": false,
+    "default_presentation": {
+      "implementation": "Vue native SVG exposure treemap with immediate metric-specific inspection guidance",
+      "area": "W*H*E_item/sum(E_visible_positive_items); no fake minimum area",
+      "position": "deterministic layout only; no metric or causal meaning",
+      "colors": {
+        "orange": "flagged review candidate",
+        "mint": "qualified, not flagged",
+        "gray": "insufficient sample or reference"
+      },
+      "labels": "state, title, exact E where space permits; full preview, native picker and readings remain available",
+      "zero_exposure": "no area; retained in picker and exact readings",
+      "default_filter": "all currently loaded candidates",
+      "metric_change": "state and advice update, geometry unchanged for the same population",
+      "scope": "visible exposure coverage disclosed; full scope and peer reference unchanged",
+      "distribution": "original signed-gap SVG retained on demand; its coordinate/category-color contract above remains valid",
+      "undefined_reference": "null / dash, never false zero",
+      "advice": "same selected feedback metric; save exact counts and frozen scope",
+      "small_rate_format": "adaptive 1-3 decimals; positive below 0.001 percent shown as <0.001%; raw values unchanged"
+    }
+  },
+  "structure": {
+    "implementation": "Vue SVG",
+    "categories": "all positive-exposure original categories in scope",
+    "shares": [
+      "E_category/E_scope",
+      "feedback_category/feedback_scope"
+    ],
+    "concentration": "cumulative exposure and feedback in the same exposure-descending order",
+    "K80": "minimum category count covering 80 percent of scope exposure",
+    "zero_feedback_total": "null share, no fabricated point or line",
+    "changes_scope": false
+  }
+}

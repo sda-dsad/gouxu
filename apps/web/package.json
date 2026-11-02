@@ -1,0 +1,29 @@
+{
+  "name": "gouxu-search-workbench",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173",
+    "test": "node --experimental-strip-types --test src/domain/metrics.test.ts src/scenes/core/productLayout.test.ts src/scenes/core/categoryScale.test.ts src/domain/exposureFlow.test.ts src/domain/categoryDisplay.test.ts src/domain/merchantDiagnosis.test.ts src/domain/priorityCompass.test.ts src/domain/priorityBoard.test.ts src/domain/exposureTreemap.test.ts src/domain/categoryPulse.test.ts"
+  },
+  "dependencies": {
+    "pinia": "4.0.3",
+    "three": "0.186.1",
+    "vue": "3.5.43"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "@types/three": "0.186.0",
+    "@vitejs/plugin-vue": "6.0.10",
+    "typescript": "5.9.3",
+    "vite": "8.3.4",
+    "vue-tsc": "3.3.13"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=24 <25"
+  }
+}

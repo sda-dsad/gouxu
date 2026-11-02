@@ -1,0 +1,55 @@
+{
+  "requests": [
+    {
+      "query": "q",
+      "impressed_item_ids": [
+        "a",
+        "a",
+        "b"
+      ],
+      "clicked_item_ids": [
+        "a",
+        "x"
+      ],
+      "purchased_item_ids": [
+        "b",
+        "y"
+      ]
+    },
+    {
+      "query": "q",
+      "impressed_item_ids": [
+        "a",
+        "c"
+      ],
+      "clicked_item_ids": [
+        "a",
+        "c"
+      ],
+      "purchased_item_ids": [
+        "a"
+      ]
+    },
+    {
+      "query": "",
+      "impressed_item_ids": [],
+      "clicked_item_ids": [],
+      "purchased_item_ids": []
+    }
+  ],
+  "expected": {
+    "requests": 3,
+    "exposed_pairs": 4,
+    "clicked_pairs": 3,
+    "purchased_pairs": 2,
+    "pair_click_rate": 0.75,
+    "pair_purchase_feedback_rate": 0.5,
+    "request_click_rate": 0.6666666666666666,
+    "request_purchase_feedback_rate": 0.6666666666666666,
+    "orphan_click_pairs": 1,
+    "orphan_purchase_pairs": 1,
+    "purchase_without_click_pairs": 1,
+    "duplicate_list_entries": 1,
+    "triple_pairs": 1
+  }
+}

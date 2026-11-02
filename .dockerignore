@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+.cache
+**/node_modules
+**/__pycache__
+**/*.pyc
+**/dist
+**/.env
+**/.env.*
+data
+reports
+output
+docs
+tests
+services/api/tests

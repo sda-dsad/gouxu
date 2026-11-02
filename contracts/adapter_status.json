@@ -1,0 +1,21 @@
+{
+  "status": "requires_raw_verification",
+  "recall_expected_fields": [
+    "user_id",
+    "session_id",
+    "query",
+    "impressed_item_ids",
+    "clicked_item_ids",
+    "purchased_item_ids",
+    "time_index",
+    "split"
+  ],
+  "field_name_basis": "Author overview + deleted historical schema; inspect actual raw JSONL before approval",
+  "accepted_list_encodings": [
+    "list of string/int IDs",
+    "list of single-key item_id objects"
+  ],
+  "unsupported_shapes": "fail, do not coerce to empty",
+  "absolute_timestamp": "not provided",
+  "train_filename_does_not_define_split": true
+}
